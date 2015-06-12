@@ -1,3 +1,9 @@
+/*sierpinski triangle 
+an example of a recursive function which adds a
+triangle in the middle of the existing triangle
+after each iteration
+*/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
